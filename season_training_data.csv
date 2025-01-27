@@ -1,0 +1,351 @@
+Fixture ID,League ID,League Name,Home Team,Away Team,Date,Result,Total Goals,Over/Under 2.5,Both Teams to Score,Over/Under 1.5,Over/Under 0.5,Over/Under 3.5
+1208249,39,Premier League,Manchester City,Chelsea,2025-01-25T17:30:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1208248,39,Premier League,Liverpool,Ipswich,2025-01-25T15:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1208245,39,Premier League,Brighton,Everton,2025-01-25T15:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1208250,39,Premier League,Southampton,Newcastle,2025-01-25T15:00:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1208252,39,Premier League,Wolves,Arsenal,2025-01-25T15:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1208243,39,Premier League,Bournemouth,Nottingham Forest,2025-01-25T15:00:00+00:00,Home Win,5,Over,No,Over,Over,Over
+1208235,39,Premier League,Chelsea,Wolves,2025-01-20T20:00:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1208237,39,Premier League,Ipswich,Manchester City,2025-01-19T16:30:00+00:00,Away Win,6,Over,No,Over,Over,Over
+1208239,39,Premier League,Manchester United,Brighton,2025-01-19T14:00:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1208236,39,Premier League,Everton,Tottenham,2025-01-19T14:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1208241,39,Premier League,Nottingham Forest,Southampton,2025-01-19T14:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1208233,39,Premier League,Arsenal,Aston Villa,2025-01-18T17:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1208242,39,Premier League,West Ham,Crystal Palace,2025-01-18T15:00:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1208234,39,Premier League,Brentford,Liverpool,2025-01-18T15:00:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1208238,39,Premier League,Leicester,Fulham,2025-01-18T15:00:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1208240,39,Premier League,Newcastle,Bournemouth,2025-01-18T12:30:00+00:00,Away Win,5,Over,Yes,Over,Over,Over
+1208232,39,Premier League,Manchester United,Southampton,2025-01-16T20:00:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1208226,39,Premier League,Ipswich,Brighton,2025-01-16T19:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1208223,39,Premier League,Arsenal,Tottenham,2025-01-15T20:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1208225,39,Premier League,Everton,Aston Villa,2025-01-15T19:30:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1208227,39,Premier League,Leicester,Crystal Palace,2025-01-15T19:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1208231,39,Premier League,Newcastle,Wolves,2025-01-15T19:30:00+00:00,Home Win,3,Over,No,Over,Over,Under
+1208228,39,Premier League,Nottingham Forest,Liverpool,2025-01-14T20:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208224,39,Premier League,Brentford,Manchester City,2025-01-14T19:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1208230,39,Premier League,Chelsea,Bournemouth,2025-01-14T19:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1208229,39,Premier League,West Ham,Fulham,2025-01-14T19:30:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1208222,39,Premier League,Wolves,Nottingham Forest,2025-01-06T20:00:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1208218,39,Premier League,Liverpool,Manchester United,2025-01-05T16:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1208217,39,Premier League,Fulham,Ipswich,2025-01-05T14:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1208215,39,Premier League,Brighton,Arsenal,2025-01-04T17:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208219,39,Premier League,Manchester City,West Ham,2025-01-04T15:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1208213,39,Premier League,Bournemouth,Everton,2025-01-04T15:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208220,39,Premier League,Southampton,Brentford,2025-01-04T15:00:00+00:00,Away Win,5,Over,No,Over,Over,Over
+1208216,39,Premier League,Crystal Palace,Chelsea,2025-01-04T15:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208214,39,Premier League,Aston Villa,Leicester,2025-01-04T15:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1208221,39,Premier League,Tottenham,Newcastle,2025-01-04T12:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1208204,39,Premier League,Brentford,Arsenal,2025-01-01T17:30:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1208210,39,Premier League,Manchester United,Newcastle,2024-12-30T20:00:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1208203,39,Premier League,Aston Villa,Brighton,2024-12-30T19:45:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1208208,39,Premier League,Ipswich,Chelsea,2024-12-30T19:45:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1208212,39,Premier League,West Ham,Liverpool,2024-12-29T17:15:00+00:00,Away Win,5,Over,No,Over,Over,Over
+1208207,39,Premier League,Fulham,Bournemouth,2024-12-29T15:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1208205,39,Premier League,Crystal Palace,Southampton,2024-12-29T15:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1208211,39,Premier League,Tottenham,Wolves,2024-12-29T15:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1208206,39,Premier League,Everton,Nottingham Forest,2024-12-29T15:00:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1208209,39,Premier League,Leicester,Manchester City,2024-12-29T14:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1208194,39,Premier League,Arsenal,Ipswich,2024-12-27T20:15:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208195,39,Premier League,Brighton,Brentford,2024-12-27T19:30:00+00:00,Draw,0,Under,No,Under,Under,Under
+1208197,39,Premier League,Liverpool,Leicester,2024-12-26T20:00:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1208202,39,Premier League,Wolves,Manchester United,2024-12-26T17:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1208681,140,La Liga,Rayo Vallecano,Girona,2025-01-26T13:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1208682,140,La Liga,Valladolid,Real Madrid,2025-01-25T20:00:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1212930,140,La Liga,Sevilla,Espanyol,2025-01-25T17:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208675,140,La Liga,Atletico Madrid,Villarreal,2025-01-25T15:15:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208679,140,La Liga,Mallorca,Real Betis,2025-01-25T13:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1208677,140,La Liga,Las Palmas,Osasuna,2025-01-24T20:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208670,140,La Liga,Villarreal,Mallorca,2025-01-20T20:00:00+00:00,Home Win,4,Over,No,Over,Over,Over
+1208671,140,La Liga,Valencia,Real Sociedad,2025-01-19T20:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208666,140,La Liga,Osasuna,Rayo Vallecano,2025-01-19T17:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208672,140,La Liga,Real Madrid,Las Palmas,2025-01-19T15:15:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1208667,140,La Liga,Celta Vigo,Athletic Club,2025-01-19T13:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1208669,140,La Liga,Getafe,Barcelona,2025-01-18T20:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208673,140,La Liga,Real Betis,Alaves,2025-01-18T17:30:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1208668,140,La Liga,Leganes,Atletico Madrid,2025-01-18T15:15:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208665,140,La Liga,Girona,Sevilla,2025-01-18T13:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1212929,140,La Liga,Espanyol,Valladolid,2025-01-17T20:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1208658,140,La Liga,Real Sociedad,Villarreal,2025-01-13T20:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208657,140,La Liga,Atletico Madrid,Osasuna,2025-01-12T15:15:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208664,140,La Liga,Las Palmas,Getafe,2025-01-12T13:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1208659,140,La Liga,Sevilla,Valencia,2025-01-11T20:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1212928,140,La Liga,Espanyol,Leganes,2025-01-11T17:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208662,140,La Liga,Valladolid,Real Betis,2025-01-11T15:15:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208660,140,La Liga,Alaves,Girona,2025-01-11T13:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1208663,140,La Liga,Rayo Vallecano,Celta Vigo,2025-01-10T20:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1208600,140,La Liga,Valencia,Real Madrid,2025-01-03T20:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1208647,140,La Liga,Real Betis,Rayo Vallecano,2024-12-22T20:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208652,140,La Liga,Leganes,Villarreal,2024-12-22T17:30:00+00:00,Away Win,7,Over,Yes,Over,Over,Over
+1212927,140,La Liga,Las Palmas,Espanyol,2024-12-22T17:30:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208651,140,La Liga,Real Madrid,Sevilla,2024-12-22T15:15:00+00:00,Home Win,6,Over,Yes,Over,Over,Over
+1208655,140,La Liga,Valencia,Alaves,2024-12-22T13:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1208654,140,La Liga,Barcelona,Atletico Madrid,2024-12-21T20:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1208653,140,La Liga,Osasuna,Athletic Club,2024-12-21T17:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1208648,140,La Liga,Celta Vigo,Real Sociedad,2024-12-21T15:15:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1208649,140,La Liga,Getafe,Mallorca,2024-12-21T13:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1208650,140,La Liga,Girona,Valladolid,2024-12-20T20:00:00+00:00,Home Win,3,Over,No,Over,Over,Under
+1208599,140,La Liga,Villarreal,Rayo Vallecano,2024-12-18T20:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1212922,140,La Liga,Espanyol,Valencia,2024-12-18T20:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208639,140,La Liga,Barcelona,Leganes,2024-12-15T20:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1208646,140,La Liga,Real Sociedad,Las Palmas,2024-12-15T17:30:00+00:00,Draw,0,Under,No,Under,Under,Under
+1208642,140,La Liga,Villarreal,Real Betis,2024-12-15T17:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1208641,140,La Liga,Alaves,Athletic Club,2024-12-15T15:15:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1208638,140,La Liga,Atletico Madrid,Getafe,2024-12-15T13:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208640,140,La Liga,Rayo Vallecano,Real Madrid,2024-12-14T20:00:00+00:00,Draw,6,Over,Yes,Over,Over,Over
+1208643,140,La Liga,Sevilla,Celta Vigo,2024-12-14T17:30:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208644,140,La Liga,Mallorca,Girona,2024-12-14T15:15:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1212926,140,La Liga,Espanyol,Osasuna,2024-12-14T13:00:00+00:00,Draw,0,Under,No,Under,Under,Under
+1208645,140,La Liga,Valladolid,Valencia,2024-12-13T20:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1212925,140,La Liga,Getafe,Espanyol,2024-12-09T20:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1208630,140,La Liga,Atletico Madrid,Sevilla,2024-12-08T20:00:00+00:00,Home Win,7,Over,Yes,Over,Over,Over
+1208637,140,La Liga,Osasuna,Alaves,2024-12-08T17:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1223810,135,Serie A,AC Milan,Parma,2025-01-26T11:30:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1223806,135,Serie A,Empoli,Bologna,2025-01-25T19:45:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223811,135,Serie A,Napoli,Juventus,2025-01-25T17:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1223805,135,Serie A,Como,Atalanta,2025-01-25T14:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1223812,135,Serie A,Torino,Cagliari,2025-01-24T19:45:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1223798,135,Serie A,Como,Udinese,2025-01-20T19:45:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1223801,135,Serie A,Inter,Empoli,2025-01-19T19:45:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1223800,135,Serie A,Verona,Lazio,2025-01-19T17:00:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1223797,135,Serie A,Cagliari,Lecce,2025-01-19T14:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1223803,135,Serie A,Parma,Venezia,2025-01-19T14:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223799,135,Serie A,Fiorentina,Torino,2025-01-19T11:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223795,135,Serie A,Atalanta,Napoli,2025-01-18T19:45:00+00:00,Away Win,5,Over,Yes,Over,Over,Over
+1223802,135,Serie A,Juventus,AC Milan,2025-01-18T17:00:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1223796,135,Serie A,Bologna,Monza,2025-01-18T14:00:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1223804,135,Serie A,AS Roma,Genoa,2025-01-17T19:45:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1223779,135,Serie A,Inter,Bologna,2025-01-15T19:45:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1223775,135,Serie A,Atalanta,Juventus,2025-01-14T19:45:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223776,135,Serie A,Como,AC Milan,2025-01-14T17:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1223790,135,Serie A,Monza,Fiorentina,2025-01-13T19:45:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1223791,135,Serie A,Napoli,Verona,2025-01-12T19:45:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1223785,135,Serie A,Bologna,AS Roma,2025-01-12T17:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1223794,135,Serie A,Venezia,Inter,2025-01-12T14:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1223787,135,Serie A,Genoa,Parma,2025-01-12T11:30:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1223789,135,Serie A,AC Milan,Cagliari,2025-01-11T19:45:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223792,135,Serie A,Torino,Juventus,2025-01-11T17:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223786,135,Serie A,Empoli,Lecce,2025-01-11T14:00:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1223793,135,Serie A,Udinese,Atalanta,2025-01-11T14:00:00+00:00,Draw,0,Under,No,Under,Under,Under
+1223788,135,Serie A,Lazio,Como,2025-01-10T19:45:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223782,135,Serie A,AS Roma,Lazio,2025-01-05T19:45:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1223783,135,Serie A,Torino,Parma,2025-01-05T17:00:00+00:00,Draw,0,Under,No,Under,Under,Under
+1223780,135,Serie A,Lecce,Genoa,2025-01-05T14:00:00+00:00,Draw,0,Under,No,Under,Under,Under
+1223781,135,Serie A,Monza,Cagliari,2025-01-05T11:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1223778,135,Serie A,Verona,Udinese,2025-01-04T19:45:00+00:00,Draw,0,Under,No,Under,Under,Under
+1223777,135,Serie A,Fiorentina,Napoli,2025-01-04T17:00:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1223784,135,Serie A,Venezia,Empoli,2025-01-04T14:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223765,135,Serie A,Bologna,Verona,2024-12-30T19:45:00+00:00,Away Win,5,Over,Yes,Over,Over,Over
+1223767,135,Serie A,Como,Lecce,2024-12-30T17:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1223771,135,Serie A,AC Milan,AS Roma,2024-12-29T19:45:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223769,135,Serie A,Juventus,Fiorentina,2024-12-29T17:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1223772,135,Serie A,Napoli,Venezia,2024-12-29T14:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1223774,135,Serie A,Udinese,Torino,2024-12-29T11:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1223770,135,Serie A,Lazio,Atalanta,2024-12-28T19:45:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1223766,135,Serie A,Cagliari,Inter,2024-12-28T17:00:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1223768,135,Serie A,Empoli,Genoa,2024-12-28T14:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1223773,135,Serie A,Parma,Monza,2024-12-28T14:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1223759,135,Serie A,Inter,Como,2024-12-23T19:45:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1223756,135,Serie A,Fiorentina,Udinese,2024-12-23T17:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1223761,135,Serie A,Monza,Juventus,2024-12-22T19:45:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1223755,135,Serie A,Atalanta,Empoli,2024-12-22T17:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1223764,135,Serie A,Venezia,Cagliari,2024-12-22T14:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1224144,78,Bundesliga,Borussia Mönchengladbach,VfL Bochum,2025-01-25T17:30:00+00:00,Home Win,3,Over,No,Over,Over,Under
+1224140,78,Bundesliga,SC Freiburg,Bayern München,2025-01-25T14:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1224143,78,Bundesliga,FSV Mainz 05,VfB Stuttgart,2025-01-25T14:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1224138,78,Bundesliga,Borussia Dortmund,Werder Bremen,2025-01-25T14:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1224141,78,Bundesliga,FC Augsburg,1. FC Heidenheim,2025-01-25T14:30:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1224137,78,Bundesliga,RB Leipzig,Bayer Leverkusen,2025-01-25T14:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1224142,78,Bundesliga,VfL Wolfsburg,Holstein Kiel,2025-01-24T19:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1224133,78,Bundesliga,Werder Bremen,FC Augsburg,2025-01-19T16:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1224134,78,Bundesliga,Union Berlin,FSV Mainz 05,2025-01-19T14:30:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1224128,78,Bundesliga,Bayer Leverkusen,Borussia Mönchengladbach,2025-01-18T17:30:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1224130,78,Bundesliga,Bayern München,VfL Wolfsburg,2025-01-18T14:30:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1224135,78,Bundesliga,VfL Bochum,RB Leipzig,2025-01-18T14:30:00+00:00,Draw,6,Over,Yes,Over,Over,Over
+1224129,78,Bundesliga,VfB Stuttgart,SC Freiburg,2025-01-18T14:30:00+00:00,Home Win,4,Over,No,Over,Over,Over
+1224132,78,Bundesliga,1. FC Heidenheim,FC St. Pauli,2025-01-18T14:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1224136,78,Bundesliga,Holstein Kiel,1899 Hoffenheim,2025-01-18T14:30:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1224131,78,Bundesliga,Eintracht Frankfurt,Borussia Dortmund,2025-01-17T19:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1224120,78,Bundesliga,VfB Stuttgart,RB Leipzig,2025-01-15T19:30:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1224125,78,Bundesliga,Union Berlin,FC Augsburg,2025-01-15T19:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1224123,78,Bundesliga,Werder Bremen,1. FC Heidenheim,2025-01-15T19:30:00+00:00,Draw,6,Over,Yes,Over,Over,Over
+1224121,78,Bundesliga,Bayern München,1899 Hoffenheim,2025-01-15T19:30:00+00:00,Home Win,5,Over,No,Over,Over,Over
+1224126,78,Bundesliga,VfL Bochum,FC St. Pauli,2025-01-15T17:30:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1224122,78,Bundesliga,Eintracht Frankfurt,SC Freiburg,2025-01-14T19:30:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1224119,78,Bundesliga,Bayer Leverkusen,FSV Mainz 05,2025-01-14T19:30:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1224124,78,Bundesliga,VfL Wolfsburg,Borussia Mönchengladbach,2025-01-14T19:30:00+00:00,Home Win,6,Over,Yes,Over,Over,Over
+1224127,78,Bundesliga,Holstein Kiel,Borussia Dortmund,2025-01-14T17:30:00+00:00,Home Win,6,Over,Yes,Over,Over,Over
+1224115,78,Bundesliga,FC Augsburg,VfB Stuttgart,2025-01-12T16:30:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1224110,78,Bundesliga,RB Leipzig,Werder Bremen,2025-01-12T14:30:00+00:00,Home Win,6,Over,Yes,Over,Over,Over
+1224117,78,Bundesliga,Borussia Mönchengladbach,Bayern München,2025-01-11T17:30:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1224114,78,Bundesliga,SC Freiburg,Holstein Kiel,2025-01-11T14:30:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1224118,78,Bundesliga,FC St. Pauli,Eintracht Frankfurt,2025-01-11T14:30:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1224113,78,Bundesliga,1. FC Heidenheim,Union Berlin,2025-01-11T14:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1224112,78,Bundesliga,1899 Hoffenheim,VfL Wolfsburg,2025-01-11T14:30:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1224116,78,Bundesliga,FSV Mainz 05,VfL Bochum,2025-01-11T14:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1224111,78,Bundesliga,Borussia Dortmund,Bayer Leverkusen,2025-01-10T19:30:00+00:00,Away Win,5,Over,Yes,Over,Over,Over
+1224107,78,Bundesliga,VfL Wolfsburg,Borussia Dortmund,2024-12-22T16:30:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1224108,78,Bundesliga,VfL Bochum,1. FC Heidenheim,2024-12-22T14:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1224101,78,Bundesliga,Bayer Leverkusen,SC Freiburg,2024-12-21T17:30:00+00:00,Home Win,6,Over,Yes,Over,Over,Over
+1224106,78,Bundesliga,Werder Bremen,Union Berlin,2024-12-21T14:30:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1224105,78,Bundesliga,1899 Hoffenheim,Borussia Mönchengladbach,2024-12-21T14:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1224104,78,Bundesliga,Eintracht Frankfurt,FSV Mainz 05,2024-12-21T14:30:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1224109,78,Bundesliga,Holstein Kiel,FC Augsburg,2024-12-21T14:30:00+00:00,Home Win,6,Over,Yes,Over,Over,Over
+1224102,78,Bundesliga,VfB Stuttgart,FC St. Pauli,2024-12-21T14:30:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1224103,78,Bundesliga,Bayern München,RB Leipzig,2024-12-20T19:30:00+00:00,Home Win,6,Over,Yes,Over,Over,Over
+1224092,78,Bundesliga,RB Leipzig,Eintracht Frankfurt,2024-12-15T18:30:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1224093,78,Bundesliga,Borussia Dortmund,1899 Hoffenheim,2024-12-15T16:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1224094,78,Bundesliga,1. FC Heidenheim,VfB Stuttgart,2024-12-15T14:30:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1224100,78,Bundesliga,FC St. Pauli,Werder Bremen,2024-12-14T17:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1224098,78,Bundesliga,Borussia Mönchengladbach,Holstein Kiel,2024-12-14T14:30:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1224099,78,Bundesliga,Union Berlin,VfL Bochum,2024-12-14T14:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1224096,78,Bundesliga,FC Augsburg,Bayer Leverkusen,2024-12-14T14:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1213916,61,Ligue 1,Paris Saint Germain,Reims,2025-01-25T20:05:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213909,61,Ligue 1,Strasbourg,Lille,2025-01-25T18:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213911,61,Ligue 1,Monaco,Rennes,2025-01-25T16:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1213914,61,Ligue 1,Auxerre,Saint Etienne,2025-01-24T19:45:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213900,61,Ligue 1,Marseille,Strasbourg,2025-01-19T19:45:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213907,61,Ligue 1,Angers,Auxerre,2025-01-19T16:15:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1213906,61,Ligue 1,Reims,LE Havre,2025-01-19T16:15:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213904,61,Ligue 1,Saint Etienne,Nantes,2025-01-19T14:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213903,61,Ligue 1,Lyon,Toulouse,2025-01-18T20:05:00+00:00,Draw,0,Under,No,Under,Under,Under
+1213908,61,Ligue 1,Rennes,Stade Brestois 29,2025-01-18T18:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1213901,61,Ligue 1,Lens,Paris Saint Germain,2025-01-18T16:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1213902,61,Ligue 1,Lille,Nice,2025-01-17T20:05:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213905,61,Ligue 1,Montpellier,Monaco,2025-01-17T18:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213898,61,Ligue 1,Paris Saint Germain,Saint Etienne,2025-01-12T19:45:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213891,61,Ligue 1,Toulouse,Strasbourg,2025-01-12T16:15:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1213896,61,Ligue 1,Montpellier,Angers,2025-01-12T16:15:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1213895,61,Ligue 1,LE Havre,Lens,2025-01-12T14:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1213899,61,Ligue 1,Rennes,Marseille,2025-01-11T20:05:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1213894,61,Ligue 1,Reims,Nice,2025-01-11T18:00:00+00:00,Away Win,6,Over,Yes,Over,Over,Over
+1213897,61,Ligue 1,Stade Brestois 29,Lyon,2025-01-11T16:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213893,61,Ligue 1,Auxerre,Lille,2025-01-10T20:05:00+00:00,Draw,0,Under,No,Under,Under,Under
+1213892,61,Ligue 1,Nantes,Monaco,2025-01-10T18:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1213888,61,Ligue 1,Marseille,LE Havre,2025-01-05T19:45:00+00:00,Home Win,6,Over,Yes,Over,Over,Over
+1213884,61,Ligue 1,Lens,Toulouse,2025-01-05T14:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1213889,61,Ligue 1,Strasbourg,Auxerre,2025-01-05T14:00:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1213886,61,Ligue 1,Angers,Stade Brestois 29,2025-01-05T14:00:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1213883,61,Ligue 1,Lyon,Montpellier,2025-01-04T20:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1213887,61,Ligue 1,Lille,Nantes,2025-01-04T18:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213885,61,Ligue 1,Saint Etienne,Reims,2025-01-04T16:00:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1213890,61,Ligue 1,Nice,Rennes,2025-01-03T20:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1213882,61,Ligue 1,Monaco,Paris Saint Germain,2024-12-18T20:00:00+00:00,Away Win,6,Over,Yes,Over,Over,Over
+1213881,61,Ligue 1,Paris Saint Germain,Lyon,2024-12-15T19:45:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1213874,61,Ligue 1,LE Havre,Strasbourg,2024-12-15T16:00:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1213879,61,Ligue 1,Stade Brestois 29,Nantes,2024-12-15T16:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1213873,61,Ligue 1,Rennes,Angers,2024-12-15T16:00:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1213878,61,Ligue 1,Montpellier,Nice,2024-12-15T14:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1213875,61,Ligue 1,Reims,Monaco,2024-12-14T20:00:00+00:00,Draw,0,Under,No,Under,Under,Under
+1213876,61,Ligue 1,Auxerre,Lens,2024-12-14T18:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1213880,61,Ligue 1,Marseille,Lille,2024-12-14T16:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213877,61,Ligue 1,Toulouse,Saint Etienne,2024-12-13T19:45:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213866,61,Ligue 1,Saint Etienne,Marseille,2024-12-08T19:45:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1213870,61,Ligue 1,Strasbourg,Reims,2024-12-08T16:00:00+00:00,Draw,0,Under,No,Under,Under,Under
+1213871,61,Ligue 1,Nantes,Rennes,2024-12-08T16:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1213869,61,Ligue 1,Lens,Montpellier,2024-12-08T14:00:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1213867,61,Ligue 1,Angers,Lyon,2024-12-07T20:00:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1213864,61,Ligue 1,Nice,LE Havre,2024-12-07T18:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213872,61,Ligue 1,Monaco,Toulouse,2024-12-07T16:00:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1213865,61,Ligue 1,Auxerre,Paris Saint Germain,2024-12-06T20:00:00+00:00,Draw,0,Under,No,Under,Under,Under
+1213868,61,Ligue 1,Lille,Stade Brestois 29,2024-12-06T18:00:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1213862,61,Ligue 1,Marseille,Monaco,2024-12-01T19:45:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213620,88,Eredivisie,Waalwijk,Willem II,2025-01-26T13:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1213617,88,Eredivisie,Fortuna Sittard,PEC Zwolle,2025-01-26T11:15:00+00:00,Away Win,5,Over,Yes,Over,Over,Over
+1213614,88,Eredivisie,Groningen,Heerenveen,2025-01-25T20:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1213619,88,Eredivisie,PSV Eindhoven,NAC Breda,2025-01-25T17:45:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1213618,88,Eredivisie,Heracles,Utrecht,2025-01-24T19:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213610,88,Eredivisie,Sparta Rotterdam,Waalwijk,2025-01-19T19:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213606,88,Eredivisie,NEC Nijmegen,Fortuna Sittard,2025-01-19T15:45:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1213609,88,Eredivisie,Heerenveen,Ajax,2025-01-19T13:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1213603,88,Eredivisie,Almere City FC,Heracles,2025-01-19T13:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1213607,88,Eredivisie,NAC Breda,Twente,2025-01-19T11:15:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213605,88,Eredivisie,GO Ahead Eagles,Groningen,2025-01-18T20:00:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213611,88,Eredivisie,Willem II,Feyenoord,2025-01-18T19:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213604,88,Eredivisie,Utrecht,AZ Alkmaar,2025-01-18T17:45:00+00:00,Draw,0,Under,No,Under,Under,Under
+1213608,88,Eredivisie,PEC Zwolle,PSV Eindhoven,2025-01-18T15:30:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1213600,88,Eredivisie,NAC Breda,Heerenveen,2025-01-12T15:45:00+00:00,Away Win,6,Over,Yes,Over,Over,Over
+1213595,88,Eredivisie,Groningen,Almere City FC,2025-01-12T13:30:00+00:00,Draw,0,Under,No,Under,Under,Under
+1213597,88,Eredivisie,Feyenoord,Utrecht,2025-01-12T13:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1213596,88,Eredivisie,Twente,Willem II,2025-01-12T11:15:00+00:00,Home Win,8,Over,Yes,Over,Over,Over
+1213602,88,Eredivisie,PSV Eindhoven,AZ Alkmaar,2025-01-11T20:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1213601,88,Eredivisie,PEC Zwolle,NEC Nijmegen,2025-01-11T19:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1213594,88,Eredivisie,Ajax,Waalwijk,2025-01-11T17:45:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213599,88,Eredivisie,Heracles,Sparta Rotterdam,2025-01-11T15:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213598,88,Eredivisie,Fortuna Sittard,GO Ahead Eagles,2025-01-10T19:00:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1213593,88,Eredivisie,Willem II,NEC Nijmegen,2024-12-22T15:45:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1213587,88,Eredivisie,Utrecht,Fortuna Sittard,2024-12-22T13:30:00+00:00,Away Win,7,Over,Yes,Over,Over,Over
+1213590,88,Eredivisie,PSV Eindhoven,Feyenoord,2024-12-22T13:30:00+00:00,Home Win,3,Over,No,Over,Over,Under
+1213592,88,Eredivisie,Sparta Rotterdam,Ajax,2024-12-22T11:15:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1213586,88,Eredivisie,AZ Alkmaar,Twente,2024-12-21T19:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1213585,88,Eredivisie,Almere City FC,Heerenveen,2024-12-21T17:45:00+00:00,Home Win,3,Over,No,Over,Over,Under
+1213588,88,Eredivisie,GO Ahead Eagles,NAC Breda,2024-12-21T15:30:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213591,88,Eredivisie,Waalwijk,PEC Zwolle,2024-12-20T19:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213582,88,Eredivisie,NAC Breda,AZ Alkmaar,2024-12-15T19:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1213576,88,Eredivisie,Ajax,Almere City FC,2024-12-15T15:45:00+00:00,Home Win,3,Over,No,Over,Over,Under
+1213581,88,Eredivisie,NEC Nijmegen,Sparta Rotterdam,2024-12-15T13:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1213577,88,Eredivisie,Twente,Groningen,2024-12-15T13:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1213578,88,Eredivisie,Utrecht,GO Ahead Eagles,2024-12-15T11:15:00+00:00,Draw,6,Over,Yes,Over,Over,Over
+1213579,88,Eredivisie,Feyenoord,Heracles,2024-12-14T20:00:00+00:00,Home Win,7,Over,Yes,Over,Over,Over
+1213580,88,Eredivisie,Fortuna Sittard,Waalwijk,2024-12-14T19:00:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1213584,88,Eredivisie,Heerenveen,PSV Eindhoven,2024-12-14T17:45:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1213583,88,Eredivisie,PEC Zwolle,Willem II,2024-12-13T19:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1213567,88,Eredivisie,Almere City FC,Utrecht,2024-12-08T15:45:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1213575,88,Eredivisie,Willem II,Heerenveen,2024-12-08T13:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1213568,88,Eredivisie,AZ Alkmaar,Ajax,2024-12-08T13:30:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1213569,88,Eredivisie,Groningen,PEC Zwolle,2024-12-08T11:15:00+00:00,Draw,0,Under,No,Under,Under,Under
+1213571,88,Eredivisie,Heracles,Fortuna Sittard,2024-12-07T20:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1213573,88,Eredivisie,Waalwijk,Feyenoord,2024-12-07T19:00:00+00:00,Away Win,5,Over,Yes,Over,Over,Over
+1213574,88,Eredivisie,Sparta Rotterdam,NAC Breda,2024-12-07T17:45:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1213570,88,Eredivisie,GO Ahead Eagles,NEC Nijmegen,2024-12-07T15:30:00+00:00,Home Win,5,Over,No,Over,Over,Over
+1213572,88,Eredivisie,PSV Eindhoven,Twente,2024-12-06T19:00:00+00:00,Home Win,7,Over,Yes,Over,Over,Over
+1213483,88,Eredivisie,Ajax,Utrecht,2024-12-04T19:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1231899,94,Primeira Liga,Sporting CP,Nacional,2025-01-25T20:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1231896,94,Primeira Liga,Casa Pia,Benfica,2025-01-25T18:00:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1231892,94,Primeira Liga,Farense,Rio Ave,2025-01-25T15:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1231897,94,Primeira Liga,Famalicao,Estrela,2025-01-25T15:30:00+00:00,Draw,0,Under,No,Under,Under,Under
+1231894,94,Primeira Liga,Arouca,Moreirense,2025-01-24T20:15:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1231885,94,Primeira Liga,Boavista,Casa Pia,2025-01-20T20:15:00+00:00,Away Win,5,Over,Yes,Over,Over,Over
+1231883,94,Primeira Liga,GIL Vicente,FC Porto,2025-01-19T20:30:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1231887,94,Primeira Liga,Estrela,SC Braga,2025-01-19T18:00:00+00:00,Away Win,1,Under,No,Under,Over,Under
+1231888,94,Primeira Liga,Moreirense,Farense,2025-01-19T15:30:00+00:00,Draw,0,Under,No,Under,Under,Under
+1231890,94,Primeira Liga,Nacional,AVS,2025-01-19T15:30:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1231889,94,Primeira Liga,Guimaraes,Arouca,2025-01-18T20:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1231882,94,Primeira Liga,Rio Ave,Sporting CP,2025-01-18T18:00:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1231884,94,Primeira Liga,Santa Clara,Estoril,2025-01-18T15:30:00+00:00,Away Win,5,Over,Yes,Over,Over,Over
+1231886,94,Primeira Liga,Benfica,Famalicao,2025-01-17T20:15:00+00:00,Home Win,4,Over,No,Over,Over,Over
+1231873,94,Primeira Liga,Nacional,FC Porto,2025-01-12T15:30:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1231878,94,Primeira Liga,GIL Vicente,Rio Ave,2025-01-06T20:15:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1231876,94,Primeira Liga,Estrela,Estoril,2025-01-05T20:30:00+00:00,Away Win,6,Over,Yes,Over,Over,Over
+1231881,94,Primeira Liga,Casa Pia,Famalicao,2025-01-05T18:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1231874,94,Primeira Liga,Santa Clara,Farense,2025-01-05T15:30:00+00:00,Draw,0,Under,No,Under,Under,Under
+1231875,94,Primeira Liga,Boavista,Arouca,2025-01-04T20:30:00+00:00,Away Win,4,Over,Yes,Over,Over,Over
+1231880,94,Primeira Liga,Benfica,SC Braga,2025-01-04T18:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1231877,94,Primeira Liga,Moreirense,AVS,2025-01-04T15:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1231879,94,Primeira Liga,Guimaraes,Sporting CP,2025-01-03T20:15:00+00:00,Draw,8,Over,Yes,Over,Over,Over
+1231867,94,Primeira Liga,Famalicao,Santa Clara,2024-12-30T20:15:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1231864,94,Primeira Liga,Sporting CP,Benfica,2024-12-29T20:30:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1231871,94,Primeira Liga,SC Braga,Casa Pia,2024-12-29T18:00:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1231869,94,Primeira Liga,Farense,Guimaraes,2024-12-29T15:30:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1231866,94,Primeira Liga,Rio Ave,Nacional,2024-12-29T15:30:00+00:00,Home Win,3,Over,Yes,Over,Over,Under
+1231865,94,Primeira Liga,FC Porto,Boavista,2024-12-28T20:30:00+00:00,Home Win,4,Over,No,Over,Over,Over
+1231872,94,Primeira Liga,Estoril,Moreirense,2024-12-28T18:00:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1231868,94,Primeira Liga,AVS,Estrela,2024-12-28T15:30:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1231870,94,Primeira Liga,Arouca,GIL Vicente,2024-12-27T20:15:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1231860,94,Primeira Liga,Estrela,Rio Ave,2024-12-23T20:45:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1231862,94,Primeira Liga,Benfica,Estoril,2024-12-23T18:45:00+00:00,Home Win,3,Over,No,Over,Over,Under
+1231861,94,Primeira Liga,Guimaraes,Nacional,2024-12-23T18:45:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1231863,94,Primeira Liga,GIL Vicente,Sporting CP,2024-12-22T20:30:00+00:00,Draw,0,Under,No,Under,Under,Under
+1231856,94,Primeira Liga,Santa Clara,SC Braga,2024-12-22T17:00:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1231859,94,Primeira Liga,Moreirense,FC Porto,2024-12-21T20:30:00+00:00,Away Win,3,Over,No,Over,Over,Under
+1231858,94,Primeira Liga,Boavista,AVS,2024-12-21T18:00:00+00:00,Draw,0,Under,No,Under,Under,Under
+1231855,94,Primeira Liga,Famalicao,Farense,2024-12-21T15:30:00+00:00,Away Win,3,Over,Yes,Over,Over,Under
+1231857,94,Primeira Liga,Casa Pia,Arouca,2024-12-20T20:15:00+00:00,Home Win,4,Over,Yes,Over,Over,Over
+1231798,94,Primeira Liga,Nacional,Benfica,2024-12-19T17:00:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1231850,94,Primeira Liga,Rio Ave,Guimaraes,2024-12-16T20:45:00+00:00,Draw,4,Over,Yes,Over,Over,Over
+1231848,94,Primeira Liga,FC Porto,Estrela,2024-12-16T20:15:00+00:00,Home Win,2,Under,No,Over,Over,Under
+1231853,94,Primeira Liga,SC Braga,Famalicao,2024-12-16T18:45:00+00:00,Draw,6,Over,Yes,Over,Over,Over
+1231847,94,Primeira Liga,Estoril,Casa Pia,2024-12-15T20:30:00+00:00,Away Win,2,Under,No,Over,Over,Under
+1231851,94,Primeira Liga,AVS,Benfica,2024-12-15T18:00:00+00:00,Draw,2,Under,Yes,Over,Over,Under
+1231852,94,Primeira Liga,Arouca,Santa Clara,2024-12-15T15:30:00+00:00,Home Win,1,Under,No,Under,Over,Under
+1231846,94,Primeira Liga,Sporting CP,Boavista,2024-12-14T20:30:00+00:00,Home Win,5,Over,Yes,Over,Over,Over
+1231849,94,Primeira Liga,Nacional,Moreirense,2024-12-14T18:00:00+00:00,Home Win,1,Under,No,Under,Over,Under
